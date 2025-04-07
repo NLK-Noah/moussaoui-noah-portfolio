@@ -28,7 +28,7 @@ Depuis, je le fais évoluer **année après année** : je l’améliore, je le r
 ---
 
 ## 📁 Structure du projet
-
+```bash
 portfolio/
 ├── app.py                  # Point d'entrée principal (serveur Flask)
 ├── requirements.txt        # Dépendances Python
@@ -45,6 +45,8 @@ portfolio/
 │
 ├── .gitignore              # Fichiers à ignorer par Git
 └── README.md               # Ce fichier que tu es en train de lire 😉
+```
+
 
 ## 🔧 Lancer le projet
 
